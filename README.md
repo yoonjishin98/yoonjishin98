@@ -1,7 +1,7 @@
 ## Yoonji
 
-👋 Hi there! I'm currently studying **Android** and want to be an mobile app develpoer.<br/>
-Let's enjoy this journey step by step✨
+Taking a rest from github for a while :) <br/>
+Currently working as an intern✨
 
 <h3 align="center"><b>🛠 Tech Stack</b></h3>
 <p align="center">
