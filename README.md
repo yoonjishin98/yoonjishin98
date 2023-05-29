@@ -16,5 +16,5 @@ Currently working as web developer ✨
 <img src="https://img.shields.io/badge/Slack-61210B?style=flat-square&logo=Slack&logoColor=white"/></a> &nbsp 
 </p> </br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KSYoonji&show_icons=true&theme=radical"/></a> &nbsp 
+  <img src="https://github-readme-stats.vercel.app/api?username=yoonjishin98&show_icons=true&theme=radical"/></a> &nbsp 
 </p>
