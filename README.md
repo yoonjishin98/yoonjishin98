@@ -1,6 +1,6 @@
 ## Yoonji
 
-Currently working as web developer ✨
+Currently working as a web developer ✨
 
 <h3 align="center"><b>🛠 Tech Stack</b></h3>
 <p align="center">
